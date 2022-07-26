@@ -1,0 +1,13 @@
+Nine Track Mind
+Charlie Puth
+img/charlie.png
+1 
+4
+Dangerously
+music/dangerously.mp3
+One Call Away
+music/one_call_away.mp3
+See You Again
+music/see_you_again.mp3
+Up All Night
+music/up_all_night.mp3
